@@ -3,6 +3,8 @@
 C++ port of the locomotion logic of Epic's **Game Animation Sample Project (GASP, UE 5.x)** to **Unreal Engine 4.27**.
 UE 4.27 has no Pose Search, no Motion Warping and no UE5 Animation Warping nodes, so the pieces GASP relies on are re-implemented here.
 
+https://youtu.be/5VkwPiRAX4I
+
 Only C++ is included: no animation assets, no Content, and no combat or attack code.
 The module build files are trimmed to what these sources use and have not been compiled in isolation.
 
